@@ -1,0 +1,21 @@
+a {
+    vertical-align: middle;
+    font-size: 16px;
+    text-decoration: none;
+    color: white;
+}
+
+a:hover,
+a:active {    
+    font-size: 16px;
+    color: lightgray;
+}
+
+.logout {
+    vertical-align: bottom;
+}
+
+.sidebar-icon {
+    vertical-align: middle;
+}
+

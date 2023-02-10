@@ -1,11 +1,3 @@
-mat-sidenav-container, mat-sidenav-content, mat-sidenav {
-    height: 100%;
-}
-
-mat-sidenav {
-    width: 250px;
-}
-
 a {
     vertical-align: middle;
     font-size: 16px;
@@ -17,14 +9,6 @@ a:hover,
 a:active {    
     font-size: 16px;
     color: lightgray;
-}
-
-.logout {
-    vertical-align: bottom;
-}
-
-.sidebar-icon {
-    vertical-align: middle;
 }
 
 .navigationItems {
